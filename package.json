@@ -1,0 +1,21 @@
+{
+  "name": "temporal-service",
+  "version": "0.0.1",
+  "description": "A simple API to get the current or specific date and time",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node --watch index.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  },
+  "author": "Vaibhav Mishra",
+  "keywords": [
+    "node",
+    "express",
+    "time"
+  ],
+  "license": "MIT"
+}
